@@ -1,0 +1,13 @@
+Answers
+
+1  -> 5 children
+
+2  -> 4:1
+
+3  -> P are Q
+
+4  -> 25%
+
+5  -> Daughter -10
+      Mother   -20
+      Father   -24
